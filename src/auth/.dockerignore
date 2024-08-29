@@ -1,0 +1,9 @@
+# Ignore the .env file
+.env
+.venv
+
+# Ignore other files and directories you do not want in the image
+.git
+Dockerfile
+.dockerignore
+README.md

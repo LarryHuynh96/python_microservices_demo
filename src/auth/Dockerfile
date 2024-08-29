@@ -24,4 +24,4 @@ COPY . /app
 
 EXPOSE 5000
 # Set the entry point to run the Flask server
-CMD ["poetry", "run", "python", "src/auth/server.py"]
+CMD ["poetry", "run", "python", "server.py"]
