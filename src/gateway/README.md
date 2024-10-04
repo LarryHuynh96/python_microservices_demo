@@ -1,4 +1,4 @@
-# Auth Service
+# Gateway Service
 
 ## Description
 
